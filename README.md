@@ -2,3 +2,5 @@
 For cla-assistant
 
 # Test for contributor commits
+
+# Contributor #2
